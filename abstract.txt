@@ -1,0 +1,1 @@
+Welcome to the Digital Scholarship Lab Introduction to SQL and Databases. This workshop will explain the basics of how SQL databases are created, used all in an interactive environment. It will also describe why knowing SQL is useful if you do any sort of data analysis, now or into the future.
