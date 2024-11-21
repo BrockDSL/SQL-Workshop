@@ -12,7 +12,7 @@ Click the blue button to launch the tutorial material in the Google Collab envir
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/SQL-Workshop/blob/master/SQL_Basics.ipynb) - SQL Basics
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/SQL-Workshop/blob/main/SQL_Basics.ipynb) - SQL Basics
 
 
 
